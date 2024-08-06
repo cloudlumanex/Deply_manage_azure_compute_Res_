@@ -1,0 +1,1 @@
+# Deply_manage_azure_compute_Res_
